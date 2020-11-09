@@ -93,6 +93,3 @@ Fases Principales
  - Mantenimiento: **Informes de errores y control de cambios**
 
 ###### nulo-dev
-
-*Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je* 
-
