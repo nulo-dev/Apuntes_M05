@@ -92,8 +92,5 @@ Fases Principales
  - Documentación: **Documentación técnica y de usuario**
  - Mantenimiento: **Informes de errores y control de cambios**
 
-\
-\
-###### nulo-dev
 ---
-*Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je*
+*Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je* ###### nulo-dev
