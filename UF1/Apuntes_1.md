@@ -1,5 +1,8 @@
 # Elementos del desarrollo de software
 ---
+
+# Introducción
+
 ## Tipos de Software
 
   - **De sistema** (Sistema operativo, dirvers)
