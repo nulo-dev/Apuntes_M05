@@ -36,7 +36,7 @@ Fases Principales
 
 ### Analisis
 
- - Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar. 
+ - Se determina las necesidades de los clientes i los requisitos que debe cumplir.
  - La especificación de requisitos debe:
     - Ser completa y sin omisiones
     - Ser concisa y sin trivialidades
@@ -49,8 +49,7 @@ Fases Principales
 
 ### Diseño
 
- - Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
- - Se especifica la interrelación y funcionalidad de los elementos componentes.
+ - Se organiza el sistema en elementos que pueden ser desarrollados por separado.
  - Las actividades habituales son las siguientes:
     - Diseño arquitectónico
     - Diseño detallado
@@ -71,8 +70,7 @@ Fases Principales
  
 ### Mantenimiento
 
- - Durante la explotación del sistema software es necesario realizar cambios ocasionales.
- - Para ello hay que rehacer parte del trabajo realizado en las fases previas.
+ - Se realizan cambios (fallos encontrados en las pruebas, mejoras, etc).
  - Tipos de mantenimiento:
     - **Correctivo**: se corrigen defectos.
     - **Perfectivo**: se mejora la funcionalidad.
@@ -95,27 +93,6 @@ Fases Principales
  - Documentación: **Documentación técnica y de usuario**
  - Mantenimiento: **Informes de errores y control de cambios**
 
-# Ciclo de vida del software
-
-## Análisis
-
-Se determina las necesidades de los clientes i los requisitos que debe cumplir.
-
-## Diseño
-
-Se organiza el sistema en elementos que pueden ser desarrollados por separado.
-
-## Codificación
-
-Se escribe el código fuente.
-
-## Pruebas
-
-Someter el programa al máximo numero de situaciones i detectar fallos.
-
-## Mantenimiento
-
-Se realizan cambios (fallos encontrados en las pruebas, mejoras, etc)
 
 ---
 ###### © 2020 nulo-dev
