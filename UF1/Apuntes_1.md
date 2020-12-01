@@ -119,5 +119,14 @@ Fases Principales
   ### Modelo en V (I)
   
   ![Model en V (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png "Model en V (I)")
+  
+  ### Modelo en V (II)
+  
+  - Modelo muy parecido al modelo en cascada.
+  - Visión jerarquizada con distintos niveles.
+  - Los niveles superiores indican mayor abstracción.
+  - Los niveles inferiores indican mator nivel de detalle.
+  - El resultado de una fase es la entrada de la siguiente fase.
+  - Existen diferentes variantes con mayor o menor cantidad de actividades.
 ---
 ###### © 2020 nulo-dev
