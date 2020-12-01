@@ -128,5 +128,36 @@ Fases Principales
   - Los niveles inferiores indican mator nivel de detalle.
   - El resultado de una fase es la entrada de la siguiente fase.
   - Existen diferentes variantes con mayor o menor cantidad de actividades.
+  
+  ### Prototipos (I)
+  
+  - A menudo los requisitos no están especificados claramente:
+      - Por no existir experiencia previa.
+      - Por omisión o falta de concreción del usuario/cliente.
+      
+  ![Prototipos (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/prototipos.png "Prototipos (I)")
+  
+  ### Prototipos (II)
+  
+  - Proceso:
+      - Se crea un prototipo durante la fase de análisis y es probado por el usuario/cliente para refinar los requisitos del software a desarrollar.
+      - Se repite el paso anterior las veces necesarias.
+      
+  ### Prototipos (III)
+  
+  - Tipos de prototipos:
+      - Prototipos rápidos
+          - El prototipo puede estar desarrollado usando otro lenguaje y/o herramientas.
+          - Finalmente el prototipo se desecha.
+      - Prototipos evolutivos
+          - El prototipo está diseñado en el mismo lenguaje y herramientas del proyecto.
+          - El prototipo se usa como base para desarrollarel proyecto.
+          
+  ### Modelo en espiral (I)
+  
+  - Desarrollado por Boehm en 1988.
+  - La actividad de ingeniería corresponde a las fases de los modelos clásicos: análisis, dieño, codificación, ...
+  ![Modelo en espiral (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png "Modelo en espiral (I)")
+  
 ---
 ###### © 2020 nulo-dev
