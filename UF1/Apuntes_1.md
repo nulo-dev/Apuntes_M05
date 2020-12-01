@@ -107,5 +107,17 @@ Fases Principales
   
   ![Model en Cascada (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png "Model en Cascada (I)")
   
+  ### Modelo en cascada (II)
+  
+  - Modelo de mayor antigüedad.
+  - Identificada las fases principales del desarrollo software.
+  - Las fases han de realizarse en el orden indicado.
+  - El resultado de una fase es la entrada de la siguiente fase.
+  - Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones.
+  - Existen diferentes variantes con mayor o menor cantidad de actividades.
+  
+  ### Modelo en V (I)
+  
+  ![Model en V (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png "Model en V (I)")
 ---
 ###### © 2020 nulo-dev
