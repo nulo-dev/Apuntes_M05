@@ -159,5 +159,11 @@ Fases Principales
   - La actividad de ingeniería corresponde a las fases de los modelos clásicos: análisis, dieño, codificación, ...
   ![Modelo en espiral (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png "Modelo en espiral (I)")
   
+  ### Modelo en espiral (II) (Aplicado a la programación orientada a objetos)
+  
+  - En la actividad de ingeniería se da gran importancia a la reutilización de código.
+  
+  ![Modelo en espiral (II)](http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral-poo.png "Modelo en espiral (II)")
+  
 ---
 ###### © 2020 nulo-dev
