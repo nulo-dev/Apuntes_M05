@@ -92,7 +92,20 @@ Fases Principales
  - Pruebas del sistema: **Sistema aceptado**
  - Documentación: **Documentación técnica y de usuario**
  - Mantenimiento: **Informes de errores y control de cambios**
+  
+ ## Modelos de desarrollo de software
 
-
+  - Modelos clásicos (predictivos)
+      - Modelo en cascada
+      - Modelo en V
+  - Modelos de construcción de prototipos
+  - Modelos evolutivos o incrementales
+      - Modelo en espiral (iterativos)
+      - Metodologías ágiles (adaptativas)
+      
+  ### Modelo en cascada (I)
+  
+  ![Model en Cascada (I)](http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png "Model en Cascada (I)")
+  
 ---
 ###### © 2020 nulo-dev
