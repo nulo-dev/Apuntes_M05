@@ -165,5 +165,30 @@ Fases Principales
   
   ![Modelo en espiral (II)](http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral-poo.png "Modelo en espiral (II)")
   
+  
+  ### Metodologías ágiles (I)
+  
+  - Son métodos de ingeniería del software basados en el desarrollo iterativo e incremental.
+  - Los requisitos y soluciones evolucionan con el tiempo según la necesidad del proyecto.
+  - El trabajo es realizado mediante la colaboración de equipos auto-organizados y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo.
+  - Las metodologías más conocidas son:
+      - Kanban
+      - Scrum
+      - XP (eXtreme Programming)
+      
+  ### Metodologías ágiles (II) (Manifiesto por el Desarrollo Ágil)
+  
+  - **Individuos e interacciones** sobre procesos y herramientas
+  - **Software funcionando** sobre documentación extensiva
+  - **Colaboración con el cliente** sobre negociación contractual
+  - **Respuesta ante el cambio** sobre seguir un plan
+  
+  ### XP (Programación Extrema)
+  
+  - Simplicidad
+  - Comunicación
+  - Retroalimentación
+  - Valentía o coraje
+  - Respeto o humildad
 ---
 ###### © 2020 nulo-dev
