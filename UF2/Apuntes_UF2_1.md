@@ -44,7 +44,7 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 	- Se estudian las salidas.
 	- Valores límite
 
-*Ejemplo mediante imagen.*
+
 ![Estrategias de pruebas (caja blanca y caja negra)](http://jamj2000.github.io/entornosdesarrollo/3/assets/caja_blanca-caja_negra.png "Estrategias de pruebas (caja blanca y caja negra)")
 
 > En la caja blanca observamos las funciones que utiliza el programa para dar la salida final y en cambio en la caja negra solo observamos la entrada y la salida sin importar como funcione la aplicacion por dentro.
@@ -62,3 +62,10 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 	- Pruebas de stress
 	- Pruebas de seguridad
 	- ...
+
+#### MECANISMOS DE PRUEBA
+
+- Manual
+	- Mediante pruebas realizadas por personal de la empresa o externo.
+- Automático
+	- Mediante software que ejcuta código automatizado comparando los resultados obtenidos con los resultados esperados.
