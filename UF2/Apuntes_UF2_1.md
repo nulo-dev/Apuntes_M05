@@ -69,3 +69,13 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 	- Mediante pruebas realizadas por personal de la empresa o externo.
 - Automático
 	- Mediante software que ejcuta código automatizado comparando los resultados obtenidos con los resultados esperados.
+
+------------
+
+
+------------
+
+
+------------
+
+> **&copy; nulo-dev**
