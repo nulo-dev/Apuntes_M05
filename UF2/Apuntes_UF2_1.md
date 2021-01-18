@@ -51,7 +51,7 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 
 ####  TIPOS DE PRUEBAS
 
-- ** Funcionales:** Evaluan el cumplimiento de los requisitos.
+- **Funcionales:** Evaluan el cumplimiento de los requisitos.
 	- Pruebas unitarias.
 	- Pruebas del sistema.
 	- Pruebas de aceptación.
