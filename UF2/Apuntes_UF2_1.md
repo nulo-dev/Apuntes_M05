@@ -73,9 +73,5 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 ------------
 
 
-------------
-
-
-------------
 
 > **&copy; nulo-dev**
