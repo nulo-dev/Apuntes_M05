@@ -70,6 +70,24 @@ Un framework es un marco de trabajo que permite unificar el proceso de desarroll
 - Automático
 	- Mediante software que ejcuta código automatizado comparando los resultados obtenidos con los resultados esperados.
 
+
+#### COBERTURA DEL CÓDIGO
+
+Es una medida (como una barra de carga) que indica cuanto porcentaje de codigo ha ejecutado satisfactoriamente, si el porcentaje es 100% signfiica que el codigo que ha ejecutado por completo, si el porcentaje es menor a 100% significa que el codigo no se ha ejecutado por completo y habria que revisar que le sucede para conseguir que el codigo se ejecute al 100%
+
+### CALIDAD
+
+En el apartado de calidad hacemos mediciones de la calidad del producto
+
+#### CALIDAD DEL PROCESO/PRODUCTO (QA/QC)
+
+QA: Garantiza la calidad de los productos mediante actividades cuando el producto se esta desarrollando.
+QC: Garantiza la calidad de los productos mediante actividades que se centran en identificar defectos en los productos reales.
+
+
+#### FACTORES DE CALIDAD
+
+	#### FACTORES DE CALIDAD(I)
 ------------
 
 
