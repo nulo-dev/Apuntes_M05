@@ -87,7 +87,28 @@ QC: Garantiza la calidad de los productos mediante actividades que se centran en
 
 #### FACTORES DE CALIDAD
 
-	#### FACTORES DE CALIDAD(I)
+Hay 11 factores de calidad segun el modelo de McCall y se agrupan en 3 ambitos los cuales mencionaremos ahora.
+
+##### OPERACIÓN DEL PRODUCTO
+
+- Corrección
+- Fiabilidad
+- Eficiencia
+- Seguridad
+- Facilidad de uso
+
+##### REVISIÓN DEL PRODUCTO
+
+- Mantenibilidad
+- Flexibilidad
+- Facilidad de prueba
+
+##### TRANSICIÓN DEL PRODUCTO
+
+- Portabilidad
+- Reusabilidad
+- Interoperatividad
+
 ------------
 
 
