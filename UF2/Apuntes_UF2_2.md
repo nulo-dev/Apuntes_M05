@@ -35,6 +35,6 @@ Las tecnicas que se utilizan a menudo son:
 - asciiDoc
 
 ---
-*Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je*
+###### *Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je*
 ------------
 > **&copy; nulo-dev**
