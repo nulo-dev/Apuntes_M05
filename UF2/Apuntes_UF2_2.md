@@ -34,7 +34,5 @@ Las tecnicas que se utilizan a menudo son:
 - reStructuredText (p. ej. Readthedocs)
 - asciiDoc
 
----
-###### *Si has llegado hasta aquí te dejo que robes mis apuntes je, je, je*
 ------------
 > **&copy; nulo-dev**
